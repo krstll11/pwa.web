@@ -1,9 +1,11 @@
 const staticCacheName='site-static-v1';
 const assets =[
-    '',
+    '.',
+    'index.html',
     'pwa.js',
     'images/people.png',
     'pwa.css',
+    'manifest.json',
     'images/icons/icon-128x128.png',
     'images/icons/icon-192x192.png'
 ]
